@@ -1,0 +1,4 @@
+github.com/golang/dep v0.5.4 h1:WfV5qbGwsBNUDhk+pfI6emWm7SdDFsnSWkqCMNG3BRs=
+github.com/golang/dep v0.5.4/go.mod h1:6RZ2Wai7dSWk7qL55sDYk+8UPFqcW7all2KDBraPPFA=
+github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
+github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
